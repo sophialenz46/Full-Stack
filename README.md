@@ -1,4 +1,5 @@
 ## Yuni (Team 10) - Uni for you!
+#### Teammitglieder: Seynabou Mbaye, Gizem Söylemez, Amine Özdemir, Sophia Lenz
 
 # Projektidee: Eine Plattform von Studierenden für Studierende
 

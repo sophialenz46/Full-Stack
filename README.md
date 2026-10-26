@@ -1,12 +1,4 @@
-## Yuni (Team 10) - Uni for you!
-
-# Projektidee: Eine Plattform von Studierenden für Studierende
-
-## Grundidee
-
-Wir entwickeln eine Webplattform, die Studierende miteinander vernetzt, um gegenseitige Unterstützung im Studium zu ermöglichen.
-
-Im Mittelpunkt stehen **Nachhilfe, Wissensaustausch, Orientierung und die Organisation des Studienalltags**.
+# Yuni (Team 10) - Uni for you!
 
 # Team Composition
 #### Teammitglieder und unsere Ziele: 
@@ -22,6 +14,15 @@ Im Mittelpunkt stehen **Nachhilfe, Wissensaustausch, Orientierung und die Organi
 
 
 # Value Proposition
+
+## Projektidee: Eine Plattform von Studierenden für Studierende
+
+## Grundidee
+
+Wir entwickeln eine Webplattform, die Studierende miteinander vernetzt, um gegenseitige Unterstützung im Studium zu ermöglichen.
+
+Im Mittelpunkt stehen **Nachhilfe, Wissensaustausch, Orientierung und die Organisation des Studienalltags**.
+
 ## 1. Zielgruppe (Customer Segment)
 
 - Studierende aller Semester, insbesondere Erstsemester

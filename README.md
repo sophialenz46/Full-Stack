@@ -1,4 +1,4 @@
-## Yuni (Team 10)
+## Yuni (Team 10) - Uni for you!
 
 # Projektidee: Eine Plattform von Studierenden für Studierende
 

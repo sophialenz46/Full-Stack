@@ -1,5 +1,4 @@
-## Team 10 
-##Gruppenname: Yuni
+## Yuni (Team 10)
 
 # Projektidee: Eine Plattform von Studierenden für Studierende
 

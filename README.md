@@ -69,4 +69,4 @@ Eine zentrale Anlaufstelle für Informationen und Orientierung im Studienalltag.
 ### 3. Austausch unter Studenten (Community-Forum/geordnete WhatsApp-Links)
 Ort für Fragen, Wissensaustausch und gegenseitige Unterstützung.
 
-##Erste UI-Design für unsere Website Yuni
+## Erste UI-Design für unsere Website Yuni

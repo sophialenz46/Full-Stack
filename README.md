@@ -1,5 +1,4 @@
 ## Yuni (Team 10) - Uni for you!
-#### Teammitglieder: Seynabou Mbaye, Gizem Söylemez, Amine Özdemir, Sophia Lenz
 
 # Projektidee: Eine Plattform von Studierenden für Studierende
 
@@ -9,6 +8,20 @@ Wir entwickeln eine Webplattform, die Studierende miteinander vernetzt, um gegen
 
 Im Mittelpunkt stehen **Nachhilfe, Wissensaustausch, Orientierung und die Organisation des Studienalltags**.
 
+# Team Composition
+#### Teammitglieder und unsere Ziele: 
+
+**Seynabou Mbaye**
+
+**Gizem Söylemez**
+
+**Amine Özdemir**
+
+**Sophia Lenz**
+
+
+
+# Value Proposition
 ## 1. Zielgruppe (Customer Segment)
 
 - Studierende aller Semester, insbesondere Erstsemester
@@ -71,5 +84,6 @@ Eine zentrale Anlaufstelle für Informationen und Orientierung im Studienalltag.
 Ort für Fragen, Wissensaustausch und gegenseitige Unterstützung.
 
 
-## Erste UI-Design für unsere Website Yuni
+# Target Scope
+
 

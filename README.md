@@ -85,5 +85,5 @@ Ort für Fragen, Wissensaustausch und gegenseitige Unterstützung.
 
 
 # Target Scope
-![Yuni Startseite](~/Desktop/Startseite.png)
+![Yuni Startseite](./Startseite.png)
 

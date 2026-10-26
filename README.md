@@ -9,8 +9,8 @@
 
 **Amine Özdemir**
 
-**Sophia Lenz**
-
+**Sophia Lenz** 
+- Meine angestrebte Note liegt zwischen **1,0 und 1,3**. Im Rahmen dieses Moduls möchte ich grundlegende Kenntnisse in der Programmiersprache **Python** erwerben und lernen, **Designentscheidungen bewusst, fundiert und zielgerichtet** zu treffen. Darüber hinaus möchte ich den sicheren Umgang mit **GitHub** erlernen, um diese Kenntnisse und Fähigkeiten bei meinem späteren Berufseinstieg selbstständig, kompetent und effektiv anwenden zu können.
 
 
 # Value Proposition

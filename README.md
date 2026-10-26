@@ -63,9 +63,8 @@ Im Gegensatz zu allgemeinen Nachhilfeplattformen liegt der Fokus auf dem direkte
 ### 1. Nachhilfe anbieten und suchen
 Die Hauptfunktion der Plattform, die Angebot und Nachfrage miteinander verbindet.
 
-### 2. Community-Forum
-Ein Ort für Fragen, Wissensaustausch und gegenseitige Unterstützung.
-
-### 3. Ersti-Guide mit WhatsApp-Links
+### 2. Guides bezogen auf verschiedene Studienphasen 
 Eine zentrale Anlaufstelle für Informationen und Orientierung im Studienalltag.
 
+### 3. Austausch unter Studenten (Community-Forum/geordnete WhatsApp-Links)
+Ort für Fragen, Wissensaustausch und gegenseitige Unterstützung.

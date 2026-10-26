@@ -1,4 +1,3 @@
-# Full-Stack
 ## Team 10 Gruppenname: Yuni
 
 # Projektidee: Eine Plattform von Studierenden für Studierende

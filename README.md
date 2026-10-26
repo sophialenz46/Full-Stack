@@ -13,7 +13,7 @@ Im Mittelpunkt stehen **Nachhilfe, Wissensaustausch, Orientierung und die Organi
 - Studierende aller Semester, insbesondere Erstsemester
 - Studierende, die Unterstützung im Studium suchen
 - Studierende, die ihr Wissen teilen oder Nachhilfe anbieten möchten
-- Zunächst Fokus auf die eigene Universität (HWR)
+- Fokus auf die eigene Universität (HWR)
 
 ## 2. Problemstellung (Pains)
 

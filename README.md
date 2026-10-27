@@ -10,7 +10,7 @@
 **Amine Özdemir**
 
 **Sophia Lenz** 
-- Meine angestrebte Note liegt zwischen **1,0 und 1,3**. Im Rahmen dieses Moduls möchte ich grundlegende Kenntnisse in der Programmiersprache **Python** erwerben und lernen, **Designentscheidungen bewusst, fundiert und zielgerichtet** zu treffen. Darüber hinaus möchte ich den sicheren Umgang mit **GitHub** erlernen, um diese Kenntnisse und Fähigkeiten bei meinem späteren Berufseinstieg selbstständig, kompetent und effektiv anwenden zu können.
+- Meine angestrebte Note liegt zwischen **1,0 und 1,3**. Im Rahmen dieses Moduls möchte ich meine Kenntnisse in der Programmiersprache **Python** aufbauen und erweitern. Außerdem möchte ich lernen, **Designentscheidungen fundiert und zielgerichtet** zu treffen. Ein weiteres Ziel ist es, den sicheren Umgang mit **GitHub** zu erlernen, um das Tool später im Berufsalltag selbstständig und selbstbewusst einsetzen zu können. Darüber hinaus möchte ich ein besseres Verständnis für die **Backend-Entwicklung von Websites** gewinnen und nachvollziehen können, wie die technischen Prozesse im Hintergrund funktionieren.
 
 
 # Value Proposition

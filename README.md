@@ -6,7 +6,7 @@
 **Seynabou Mbaye**
 
 **Gizem Söylemez**
-
+- Meine angestrebte Note liegt zwischen **1,0 und 1,3**. Meine persönlichen Lernziele im Rahmen dieses Moduls umfassen insbesondere die Vertiefung meiner bisherigen Python-Kenntnisse sowie den Ausbau meines Verständnisses für Backend-Prozesse bei der Entwicklung von Webanwendungen. Darüber hinaus möchte ich mein Verständnis für das Zusammenspiel zwischen Frontend und Backend erweitern. Ebenso möchte ich meine Kenntnisse im Umgang mit Git und GitHub vertiefen, um mehr Sicherheit bei der gemeinsamen Programmierarbeit in Teams zu gewinnen und mich besser auf die Zusammenarbeit in Entwicklungsteams im späteren Berufsleben vorzubereiten.
 **Amine Özdemir**
 
 **Sophia Lenz** 

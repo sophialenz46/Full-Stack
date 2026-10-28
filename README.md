@@ -89,3 +89,8 @@ Ort für Fragen, Wissensaustausch und gegenseitige Unterstützung.
 # Target Scope
 ![Yuni Startseite](./Startseite.png)
 ![Yuni Startseite](./Home.png)
+![Yuni Community-Screen1](./Community-Screen1.png)
+![Yuni Community-Screen2](./Community-Screen2.png)
+![Yuni Community-Screen3](./Community-Screen3.png)
+
+

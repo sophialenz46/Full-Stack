@@ -91,7 +91,7 @@ Ort für Fragen, Wissensaustausch und gegenseitige Unterstützung.
 ![Yuni Startseite](./Startseite.png)
 ![Yuni Startseite](./Home.png)
 ![Yuni Startseite](./GuidesScreen.png)
-![Yuni GuidesScreen](file:///C:/Users/Yoga/OneDrive/Bilder/GuidesScreen.PNG)
+![Yuni GuidesScreen](./GuidesScreen.png)
 ![Yuni CommunityScreen1](./CommunityScreen1.png)
 ![Yuni CommunityScreen2](./CommunityScreen2.png)
 ![Yuni CommunityScreen3](./CommunityScreen3.png)

@@ -98,6 +98,6 @@ Ort für Fragen, Wissensaustausch und gegenseitige Unterstützung.
 ![Yuni CommunityScreen1](./CommunityScreen1.png)
 ![Yuni CommunityScreen2](./CommunityScreen2.png)
 ![Yuni CommunityScreen3](./CommunityScreen3.png)
-![Yuni Nachhilfe suchen] (./Bild 29.10.26 um 21.44.png)
-![Yuni Nachhilfe anbieten] (./Bild 29.10.26 um 21.47.png)
+![Yuni Nachhilfe suchen](./Bild29.10.26um21.44.png)
+![Yuni Nachhilfe anbieten](./Bild29.10.26um21.47.png)
 

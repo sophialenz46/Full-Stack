@@ -4,6 +4,7 @@
 #### Teammitglieder und unsere Ziele: 
 
 **Seynabou Mbaye**
+- Meine angestrebte Note liegt im Bereich von 1,0 bis 1,3. In diesem Modul möchte ich meine bisherigen Kenntnisse in Python weiterentwickeln und lernen, diese gezielt bei der Entwicklung von Webanwendungen anzuwenden. Zusätzlich möchte ich meine Fähigkeiten im Umgang mit Git und GitHub verbessern, um die Versionsverwaltung und die Zusammenarbeit an gemeinsamen Projekten sicherer zu beherrschen. Diese Erfahrungen sollen mir helfen, sowohl bei zukünftigen Studienprojekten als auch im späteren Berufsleben effektiv in Entwicklungsteams mitzuarbeiten.
 
 **Gizem Söylemez**
 - Meine angestrebte Note liegt zwischen **1,0 und 1,3**. Meine persönlichen Lernziele im Rahmen dieses Moduls umfassen insbesondere die Vertiefung meiner bisherigen **Python-Kenntnisse** sowie den Ausbau meines Verständnisses für Backend-Prozesse bei der Entwicklung von Webanwendungen. Darüber hinaus möchte ich mein Verständnis für das **Zusammenspiel zwischen Frontend und Backend** erweitern. Ebenso möchte ich meine Kenntnisse im Umgang mit Git und GitHub vertiefen, um mehr Sicherheit bei der gemeinsamen **Programmierarbeit in Teams** zu gewinnen und mich besser auf die Zusammenarbeit in Entwicklungsteams im späteren Berufsleben vorzubereiten.

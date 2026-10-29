@@ -90,8 +90,7 @@ Ort für Fragen, Wissensaustausch und gegenseitige Unterstützung.
 # Target Scope
 ![Yuni Startseite](./Startseite.png)
 ![Yuni Startseite](./Home.png)
-![Yuni Startseite](./GuidesScreen.png)
-![Yuni GuidesScreen](./GuidesScreen.png)
+![Yuni GuidesScreen](./GuidesScreen.PNG)
 ![Yuni CommunityScreen1](./CommunityScreen1.png)
 ![Yuni CommunityScreen2](./CommunityScreen2.png)
 ![Yuni CommunityScreen3](./CommunityScreen3.png)

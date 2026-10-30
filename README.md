@@ -94,7 +94,7 @@ Ort für Fragen, Wissensaustausch und gegenseitige Unterstützung.
 ![Yuni Startseite](./Startseite.png)
 ![Yuni LoginScreen](./Login:Registrieren.jpg)
 ![Yuni Startseite](./Home.png)
-![Yuni GuidesScreen](./GuidesScreen.PNG)
+![Yuni GuidesScreen](./Studien-Guides.png)
 ![Yuni Nachhilfe suchen](./NachhilfeSuchen.jpeg)
 ![Yuni Nachhilfe anbieten](./NachhilfeAnbieten.jpeg)
 ![Yuni CommunityScreen1](./CommunityScreen1.png)

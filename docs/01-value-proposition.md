@@ -138,11 +138,9 @@ Im Mittelpunkt steht dabei die Nachhilfevermittlung als zentrale Funktion unsere
 
 Durch diese beiden Happy Paths wird deutlich, wie unsere Plattform Angebot und Nachfrage zusammenführt und die gegenseitige Unterstützung innerhalb der HWR ermöglicht.
 
----
 
-## Initial Target Scope (as per Assignment)
 
-# Target Scope
+# Initial Target Scope
 ##### Design erstellt mit proto.io
 
 ![Yuni Startseite](./assets/images/Startseite.png)

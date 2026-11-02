@@ -114,7 +114,7 @@ Im Mittelpunkt steht dabei die Nachhilfevermittlung als zentrale Funktion unsere
 
 7. Unterstützung erhalten: Die Studentin nimmt die vereinbarte Nachhilfe in Anspruch und erhält Hilfe bei ihren fachlichen Schwierigkeiten.
 
-Ergebnis: Die Studentin findet über die Plattform passende Unterstützung und kann ihre Schwierigkeiten im Studium gezielt angehen.
+**Ergebnis:** Die Studentin findet über die Plattform passende Unterstützung und kann ihre Schwierigkeiten im Studium gezielt angehen.
 
 ### Supply-Side Happy Path
 

@@ -4,44 +4,152 @@
 
 ## Target Users and Their Problems
 
-A platform serves two distinct user groups, each with their own needs and motivations.
+Unsere Plattform richtet sich an Studierende der Hochschule für Wirtschaft und Recht Berlin (HWR). Sie soll Studierende miteinander vernetzen und die gegenseitige Unterstützung im Studienalltag erleichtern.
 
-### Demand Side: [User Group]
+Dabei unterscheiden wir zwischen zwei Nutzergruppen: Studierenden, die Unterstützung suchen (Nachfrageseite), und Studierenden, die ihr Wissen und ihre Erfahrungen anbieten möchten (Angebotsseite).
 
-[Describe (a) who these users are (e.g., as persona) and (b) which problem or unmet need brings them to your platform. Be specific and grounded in reality with both the user and the problem description.]
+### Demand Side: Studierende, die Unterstüzung suchen
 
-### Supply Side: [User Group]
+Zur Nachfrageseite gehören Studierende aller Semester, insbesondere Erstsemester, die Unterstützung bei ihrem Studium benötigen.
 
-[Describe who these users are, what they have to offer, and which problem or need motivates them to participate. Again, be specific and grounded in reality.]
+Gerade zu Beginn des Studiums fällt es vielen schwer, sich im Hochschulalltag zurechtzufinden. Informationen zu Modulen, Prüfungen, Praktika oder organisatorischen Abläufen sind häufig auf verschiedene Webseiten, Plattformen und WhatsApp-Gruppen verteilt.
+
+Auch die Suche nach geeigneter Nachhilfe oder nach erfahrenen Studierenden, die bei fachlichen Fragen helfen können, gestaltet sich oft schwierig.
+
+Die wichtigsten Probleme dieser Nutzergruppe sind:
+- Fehlende Orientierung im Studienalltag, insbesondere bei Erstsemestern
+- Schwierigkeiten, passende Nachhilfe und fachliche Unterstützung zu finden
+- Unübersichtliche Informationen und verstreute WhatsApp-Gruppen
+- Offene Fragen zu Modulen, Prüfungen und Studienabläufen
+- Fehlende Vernetzung zwischen Studierenden unterschiedlicher Semester
+
+
+
+### Supply Side: Studierende, die Unterstützung anbieten
+
+Zur Angebotsseite gehören Studierende der HWR, die bereits Erfahrungen im Studium gesammelt haben und ihr Wissen mit anderen teilen möchten.
+
+Diese Studierenden können beispielsweise Nachhilfe in bestimmten Modulen anbieten, Fragen beantworten oder hilfreiche Erfahrungen und Informationen weitergeben.
+
+Einige möchten anderen Studierenden helfen und die Hochschulgemeinschaft stärken. Andere suchen zusätzlich nach einer flexiblen Möglichkeit, neben dem Studium Geld zu verdienen.
+
+Die wichtigsten Bedürfnisse dieser Nutzergruppe sind:
+- Eine einfache Möglichkeit, eigene Nachhilfeangebote zu veröffentlichen
+- Direkter Kontakt zu Studierenden, die Unterstützung benötigen
+- Flexible Möglichkeiten, neben dem Studium Geld zu verdienen
+- Eine Plattform, um Wissen und Erfahrungen weiterzugeben
+- Stärkere Vernetzung innerhalb der Hochschule
 
 ## Our Platform Solution
 
-[Briefly describe the purpose of your platform. What brings the two user groups together? What is being offered, requested, or exchanged?]
+Wir entwickeln eine zentrale Webplattform von Studierenden für Studierende der HWR Berlin.
+
+Die Plattform verbindet Studierende, die Unterstützung suchen, mit Studierenden, die Nachhilfe, Wissen oder Erfahrungen anbieten.
+
+Unser Ziel ist es, die Bereiche Nachhilfevermittlung, Community und Studienorganisation auf einer gemeinsamen Plattform zusammenzuführen.
+
+Dafür konzentrieren wir uns auf drei Kernfunktionen:
+1. Nachhilfe anbieten und suchen: Studierende können Nachhilfeangebote veröffentlichen und passende Unterstützung finden.
+2. Studien-Guides: Informationen und Orientierungshilfen für unterschiedliche Studienphasen, insbesondere für Erstsemester.
+3. Community und Austausch: Studierende können sich über ein Community-Forum und eine Übersicht relevanter WhatsApp-Gruppen miteinander vernetzen.
+
+Das Alleinstellungsmerkmal unserer Plattform liegt im Fokus auf der eigenen Hochschule. Im Gegensatz zu allgemeinen Nachhilfeplattformen steht der direkte Austausch zwischen Studierenden derselben Hochschule im Mittelpunkt.
 
 ### Solution for the Demand Side
 
-[Explain how your application addresses the demand-side users' problem. Why would they choose to use your platform?]
+Studierende, die Unterstützung suchen, erhalten eine zentrale Anlaufstelle für ihre Fragen und Bedürfnisse.
+
+Über die Nachhilfevermittlung können sie passende Angebote anderer Studierender finden und Kontakt zu ihnen aufnehmen.
+
+Zusätzlich bieten Studien-Guides Orientierung zu wichtigen Themen des Hochschulalltags. Über das Community-Forum und die WhatsApp-Gruppen können Studierende Fragen stellen, Erfahrungen austauschen und neue Kontakte knüpfen.
+
+Der Mehrwert für die Nachfrageseite:
+- Einfacherer Zugang zu Nachhilfe und fachlicher Unterstützung
+- Schnellere Orientierung im Studienalltag
+- Zentrale Bereitstellung wichtiger Informationen
+- Direkter Austausch mit anderen HWR-Studierenden
+- Weniger Aufwand bei der Suche nach Informationen und Kontakten
 
 ### Solution for the Supply Side
 
-[Explain how your application addresses the supply-side users' problem. Why would they choose to offer their services, products, or resources through your platform?]
+Studierende, die Unterstützung anbieten möchten, erhalten die Möglichkeit, ihr Wissen und ihre Erfahrungen mit anderen zu teilen.
+
+Über die Nachhilfevermittlung können sie eigene Angebote veröffentlichen und von interessierten Studierenden gefunden werden.
+
+Dadurch entsteht eine Möglichkeit, andere Studierende zu unterstützen und gegebenenfalls neben dem Studium Geld zu verdienen.
+
+Auch über das Community-Forum können erfahrene Studierende ihr Wissen weitergeben und Fragen beantworten.
+
+Der Mehrwert für die Angebotsseite:
+- Einfache Veröffentlichung eigener Nachhilfeangebote
+- Bessere Erreichbarkeit potenzieller Nachhilfesuchender
+- Flexible Möglichkeiten für einen Nebenverdienst
+- Weitergabe eigener Erfahrungen und Kenntnisse
+- Aktive Beteiligung an der Hochschulgemeinschaft
+
 
 ## Happy Paths
 
-[Describe how your platform connects the two groups and facilitates their interaction: What steps lead from an offer or request to a successful match or exchange?
+Die Happy Paths beschreiben beispielhaft, wie beide Nutzergruppen unsere Plattform verwenden und wie eine erfolgreiche Vermittlung zwischen Angebot und Nachfrage ablaufen kann.
 
-Illustrate the typical successful interaction with your platform from both user perspectives, from from the app's entry point to a completed task. You might want to show the path as (schematic) screen flows. Ensure your "happy path" (a) is consistent with the Value Proposition, (b) demonstrates how the two user groups interact through the platform, and (c) shows the features as actually implemented in the submitted web app.]
+Im Mittelpunkt steht dabei die Nachhilfevermittlung als zentrale Funktion unserer Webplattform.
 
 ### Demand-Side Happy Path
 
-[Show the demand-side user "happy path".]
+Beispielszenario: Eine Erstsemesterstudentin der HWR hat Schwierigkeiten in einem Modul und sucht nach geeigneter Nachhilfe.
+
+1. Startseite aufrufen: Die Studentin öffnet die Webplattform und erhält einen Überblick über die verfügbaren Funktionen.
+
+2. Nachhilfe suchen: Sie navigiert zum Bereich „Nachhilfe suchen“.
+
+3. Angebote ansehen: Sie durchsucht die vorhandenen Nachhilfeangebote und sucht nach Unterstützung für ihr Modul.
+
+4. Passendes Angebot auswählen: Sie entscheidet sich für ein Angebot, das zu ihrem Unterstützungsbedarf passt.
+
+5. Kontakt aufnehmen: Sie nutzt die auf der Plattform vorgesehene Kontaktmöglichkeit, um die nachhilfegebende Person zu erreichen.
+
+6. Nachhilfe vereinbaren: Beide Studierenden stimmen einen Termin und die weiteren Einzelheiten ab.
+
+7. Unterstützung erhalten: Die Studentin nimmt die vereinbarte Nachhilfe in Anspruch und erhält Hilfe bei ihren fachlichen Schwierigkeiten.
+
+Ergebnis: Die Studentin findet über die Plattform passende Unterstützung und kann ihre Schwierigkeiten im Studium gezielt angehen.
 
 ### Supply-Side Happy Path
 
-[Show the supply-side user "happy path".]
+Beispielszenario: Ein Student aus einem höheren Semester möchte sein Wissen in einem bestimmten Modul weitergeben und Nachhilfe anbieten.
+
+1. Plattform aufrufen: Der Student öffnet die Webplattform.
+
+2. Nachhilfe anbieten: Er navigiert zum Bereich „Nachhilfe anbieten“.
+
+3. Angebot erstellen: Er gibt die benötigten Informationen zu seinem Nachhilfeangebot ein, beispielsweise das Modul und eine Beschreibung seiner Unterstützung.
+
+4. Angebot veröffentlichen: Er veröffentlicht sein Nachhilfeangebot auf der Plattform.
+
+5. Anfrage erhalten: Eine Studentin entdeckt das Angebot und nimmt Kontakt zu ihm auf.
+
+6. Nachhilfe vereinbaren: Beide besprechen den Unterstützungsbedarf und vereinbaren einen Termin.
+
+7. Nachhilfe durchführen: Der Student unterstützt die Studentin beim Verständnis der Lerninhalte.
+
+Ergebnis: Der Student kann sein Wissen weitergeben, andere Studierende unterstützen und gegebenenfalls durch die Nachhilfe Geld verdienen.
+
+Durch diese beiden Happy Paths wird deutlich, wie unsere Plattform Angebot und Nachfrage zusammenführt und die gegenseitige Unterstützung innerhalb der HWR ermöglicht.
 
 ---
 
 ## Initial Target Scope (as per Assignment)
 
-[Include your visual scoping of the web app (e.g., UI screens scribbles), as elaborated for your Assignment at start of the project.]
+# Target Scope
+##### Design erstellt mit proto.io
+
+![Yuni Startseite](./Startseite.png)
+![Yuni LoginScreen](./Login:Registrieren.jpg)
+![Yuni Startseite](./Home.png)
+![Yuni GuidesScreen](./Studien-Guides.png)
+![Yuni Nachhilfe suchen](./NachhilfeSuchen.jpeg)
+![Yuni Nachhilfe anbieten](./NachhilfeAnbieten.jpeg)
+![Yuni CommunityScreen1](./CommunityScreen1.png)
+![Yuni CommunityScreen2](./CommunityScreen2.png)
+![Yuni CommunityScreen3](./CommunityScreen3.png)
+

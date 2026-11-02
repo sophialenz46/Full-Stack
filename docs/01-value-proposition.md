@@ -23,7 +23,7 @@ Auch die Suche nach geeigneter Nachhilfe oder nach erfahrenen Studierenden, die 
 - Offene Fragen zu Modulen, Prüfungen und Studienabläufen
 - Fehlende Vernetzung zwischen Studierenden unterschiedlicher Semester
 
-## Need Identification 
+### Need Identification 
 Da wir selbst an der HWR studieren, kennen wir viele dieser Herausforderungen aus eigener Erfahrung. Auch durch den Austausch mit anderen Studierenden haben wir festgestellt, dass ähnliche Probleme immer wieder auftreten. Unsere Plattform basiert daher nicht nur auf einer theoretischen Annahme, sondern auf Bedürfnissen, die wir selbst erlebt und in unserem studentischen Umfeld wahrgenommen haben.
 
 

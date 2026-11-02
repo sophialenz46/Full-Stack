@@ -143,13 +143,14 @@ Durch diese beiden Happy Paths wird deutlich, wie unsere Plattform Angebot und N
 # Target Scope
 ##### Design erstellt mit proto.io
 
-![Yuni Startseite](./Startseite.png)
-![Yuni LoginScreen](./Login:Registrieren.jpg)
-![Yuni Startseite](./Home.png)
-![Yuni GuidesScreen](./Studien-Guides.png)
-![Yuni Nachhilfe suchen](./NachhilfeSuchen.jpeg)
-![Yuni Nachhilfe anbieten](./NachhilfeAnbieten.jpeg)
-![Yuni CommunityScreen1](./CommunityScreen1.png)
-![Yuni CommunityScreen2](./CommunityScreen2.png)
-![Yuni CommunityScreen3](./CommunityScreen3.png)
+![Yuni Startseite](./assets/images/Startseite.png)
+![Yuni LoginScreen](./assets/images/LoginUndRegistrieren.jpg)
+![Yuni Home](./assets/images/Home.png)
+![Yuni GuidesScreen](./assets/images/GuidesScreen.PNG)
+![Yuni Nachhilfe suchen](./assets/images/NachhilfeSuchen.jpeg)
+![Yuni Nachhilfe anbieten](./assets/images/NachhilfeAnbieten.jpeg)
+![Yuni CommunityScreen1](./assets/images/CommunityScreen1.png)
+![Yuni CommunityScreen2](./assets/images/CommunityScreen2.png)
+![Yuni CommunityScreen3](./assets/images/CommunityScreen3.png)
+![Yuni Studien Guides](./assets/images/Studien-Guides.png)
 

@@ -76,7 +76,7 @@ Eine Plattform speziell für Studierende der eigenen Universität, die **Nachhil
 
 Im Gegensatz zu allgemeinen Nachhilfeplattformen liegt der Fokus auf dem direkten Austausch zwischen Studierenden derselben Hochschule.
 
-## 7. Mögliche drei Kernfunktionen der Website
+## 7. Drei Kernfunktionen der Website
 
 ### 1. Nachhilfe anbieten und suchen
 Die Hauptfunktion der Plattform, die Angebot und Nachfrage miteinander verbindet.

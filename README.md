@@ -1,4 +1,4 @@
-# Yuni (Team 10) - Uni for you!
+# Yuni Team 10 - Uni for you!
 
 # Team Composition
 #### Teammitglieder und unsere Ziele: 

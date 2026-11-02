@@ -16,7 +16,7 @@ Gerade zu Beginn des Studiums fällt es vielen schwer, sich im Hochschulalltag z
 
 Auch die Suche nach geeigneter Nachhilfe oder nach erfahrenen Studierenden, die bei fachlichen Fragen helfen können, gestaltet sich oft schwierig.
 
-Die wichtigsten Probleme dieser Nutzergruppe sind:
+**Die wichtigsten Probleme dieser Nutzergruppe sind:**
 - Fehlende Orientierung im Studienalltag, insbesondere bei Erstsemestern
 - Schwierigkeiten, passende Nachhilfe und fachliche Unterstützung zu finden
 - Unübersichtliche Informationen und verstreute WhatsApp-Gruppen
@@ -33,7 +33,7 @@ Diese Studierenden können beispielsweise Nachhilfe in bestimmten Modulen anbiet
 
 Einige möchten anderen Studierenden helfen und die Hochschulgemeinschaft stärken. Andere suchen zusätzlich nach einer flexiblen Möglichkeit, neben dem Studium Geld zu verdienen.
 
-Die wichtigsten Bedürfnisse dieser Nutzergruppe sind:
+**Die wichtigsten Bedürfnisse dieser Nutzergruppe sind:**
 - Eine einfache Möglichkeit, eigene Nachhilfeangebote zu veröffentlichen
 - Direkter Kontakt zu Studierenden, die Unterstützung benötigen
 - Flexible Möglichkeiten, neben dem Studium Geld zu verdienen
@@ -48,12 +48,12 @@ Die Plattform verbindet Studierende, die Unterstützung suchen, mit Studierenden
 
 Unser Ziel ist es, die Bereiche Nachhilfevermittlung, Community und Studienorganisation auf einer gemeinsamen Plattform zusammenzuführen.
 
-Dafür konzentrieren wir uns auf drei Kernfunktionen:
+**Dafür konzentrieren wir uns auf drei Kernfunktionen:**
 1. Nachhilfe anbieten und suchen: Studierende können Nachhilfeangebote veröffentlichen und passende Unterstützung finden.
 2. Studien-Guides: Informationen und Orientierungshilfen für unterschiedliche Studienphasen, insbesondere für Erstsemester.
 3. Community und Austausch: Studierende können sich über ein Community-Forum und eine Übersicht relevanter WhatsApp-Gruppen miteinander vernetzen.
 
-Das Alleinstellungsmerkmal unserer Plattform liegt im Fokus auf der eigenen Hochschule. Im Gegensatz zu allgemeinen Nachhilfeplattformen steht der direkte Austausch zwischen Studierenden derselben Hochschule im Mittelpunkt.
+Das **Alleinstellungsmerkmal** unserer Plattform liegt im Fokus auf der eigenen Hochschule. Im Gegensatz zu allgemeinen Nachhilfeplattformen steht der direkte Austausch zwischen Studierenden derselben Hochschule im Mittelpunkt.
 
 ### Solution for the Demand Side
 
@@ -63,7 +63,7 @@ Studierende, die Unterstützung suchen, erhalten eine zentrale Anlaufstelle für
 
 Zusätzlich bieten Studien-Guides Orientierung zu wichtigen Themen des Hochschulalltags. Über das Community-Forum und die WhatsApp-Gruppen können Studierende Fragen stellen, Erfahrungen austauschen und neue Kontakte knüpfen.
 
-Der Mehrwert für die Nachfrageseite:
+**Der Mehrwert für die Nachfrageseite:**
 - Einfacherer Zugang zu Nachhilfe und fachlicher Unterstützung
 - Schnellere Orientierung im Studienalltag
 - Zentrale Bereitstellung wichtiger Informationen
@@ -80,7 +80,7 @@ Dadurch entsteht eine Möglichkeit, andere Studierende zu unterstützen und gege
 
 Auch über das Community-Forum können erfahrene Studierende ihr Wissen weitergeben und Fragen beantworten.
 
-Der Mehrwert für die Angebotsseite:
+**Der Mehrwert für die Angebotsseite:**
 - Einfache Veröffentlichung eigener Nachhilfeangebote
 - Bessere Erreichbarkeit potenzieller Nachhilfesuchender
 - Flexible Möglichkeiten für einen Nebenverdienst
@@ -96,7 +96,7 @@ Im Mittelpunkt steht dabei die Nachhilfevermittlung als zentrale Funktion unsere
 
 ### Demand-Side Happy Path
 
-Beispielszenario: Eine Erstsemesterstudentin der HWR hat Schwierigkeiten in einem Modul und sucht nach geeigneter Nachhilfe.
+**Beispielszenario:** Eine Erstsemesterstudentin der HWR hat Schwierigkeiten in einem Modul und sucht nach geeigneter Nachhilfe.
 
 1. Startseite aufrufen: Die Studentin öffnet die Webplattform und erhält einen Überblick über die verfügbaren Funktionen.
 
@@ -116,7 +116,7 @@ Ergebnis: Die Studentin findet über die Plattform passende Unterstützung und k
 
 ### Supply-Side Happy Path
 
-Beispielszenario: Ein Student aus einem höheren Semester möchte sein Wissen in einem bestimmten Modul weitergeben und Nachhilfe anbieten.
+**Beispielszenario:** Ein Student aus einem höheren Semester möchte sein Wissen in einem bestimmten Modul weitergeben und Nachhilfe anbieten.
 
 1. Plattform aufrufen: Der Student öffnet die Webplattform.
 
@@ -132,7 +132,7 @@ Beispielszenario: Ein Student aus einem höheren Semester möchte sein Wissen in
 
 7. Nachhilfe durchführen: Der Student unterstützt die Studentin beim Verständnis der Lerninhalte.
 
-Ergebnis: Der Student kann sein Wissen weitergeben, andere Studierende unterstützen und gegebenenfalls durch die Nachhilfe Geld verdienen.
+**Ergebnis:** Der Student kann sein Wissen weitergeben, andere Studierende unterstützen und gegebenenfalls durch die Nachhilfe Geld verdienen.
 
 Durch diese beiden Happy Paths wird deutlich, wie unsere Plattform Angebot und Nachfrage zusammenführt und die gegenseitige Unterstützung innerhalb der HWR ermöglicht.
 
